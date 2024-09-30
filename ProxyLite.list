@@ -2,7 +2,7 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,cdn2.jiuse2.cloud
+DOMAIN-KEYWORD,jiuse2
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
